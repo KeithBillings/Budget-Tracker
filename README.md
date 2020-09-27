@@ -19,7 +19,7 @@ This app demonstrates the usage of a service worker and is able to cache files t
 
 ## Deployment 
 
-https://employee-directory-kmb.herokuapp.com/
+https://kmb-budget-tracker.herokuapp.com/
 
 ## Installation
 
